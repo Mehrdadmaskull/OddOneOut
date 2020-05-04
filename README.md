@@ -1,5 +1,12 @@
-# OddOneOut
+# OddOneOut Description
+
+The game rule is simple, you see different animals in even numbers except for one. Can you find it? Let me know how high you scored! xD
+
 A SpriteKit game that was built for SOEN357-UI/UX Design project
+To run the code locally, simply clone/fork this project and use Xcode to open the project.
+
+
+# Credits
 
 Artwork for this project was taken from the Kenney Game Assets packs, which is available under the public domain
 You can find out more about Kenney’s work and buy more assets here: https://kenney.itch.io/.
